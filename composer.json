@@ -1,0 +1,22 @@
+{
+  "name": "klimesf/letter2number",
+  "description": "Letter to number cipher encoder and solver.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Filip Klimes",
+      "email": "filip@filipklimes.cz"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "require-dev": {
+    "nette/tester": "^1.5"
+  },
+  "autoload": {
+    "psr-0": {
+      "Letter2Number\\": "src"
+    }
+  }
+}
